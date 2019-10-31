@@ -1,9 +1,4 @@
 
-@sainathadapa sainathadapa manjaro i3's default config 9077ac5 on Aug 27, 2018
-418 lines (348 sloc) 15.1 KB
-# i3 config file (v4)
-# Please see http://i3wm.org/docs/userguide.html for a complete reference!
-
 # Set mod key (Mod1=<Alt>, Mod4=<Super>)
 set $mod Mod4
 
