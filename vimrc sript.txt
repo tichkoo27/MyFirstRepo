@@ -28,7 +28,7 @@ set ruler
 set visualbell
 
 " Encoding
-set encoding=utf-8
+set encoding=utf-16
 
 " Whitespace
 set wrap
@@ -91,7 +91,7 @@ set listchars=tab:▸\ ,eol:¬
 map <leader>l :set list!<CR> " Toggle tabs and EOL
 
 " Color scheme (terminal)
-set t_Co=256
+set t_Co=128
 set background=dark
 let g:solarized_termcolors=256
 let g:solarized_termtrans=1
